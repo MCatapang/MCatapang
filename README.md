@@ -7,8 +7,9 @@ and I'll be updating this "[Read Me](Maocatap/Readme.md)" as I learn more things
 Looking forward to seeing what comes next.
 
 ## Education
-- This
-- And that
+- Bullet Point 1
+- Bullet Point 2
 
 ## Experience
-- Maybe this too
+- Bullet Point 1
+- Bullet Point 2
