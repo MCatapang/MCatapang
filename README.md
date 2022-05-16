@@ -13,6 +13,4 @@ Looking forward to seeing what comes next!
   - B.A., Political Science – Law & Society
 
 ## Experience
-- CodingDojo
-  - Web Fundamentals (HTML, CSS, and JavaScript)
-  - Python
+- See Resume
