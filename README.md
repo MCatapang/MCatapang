@@ -14,5 +14,3 @@ Looking forward to seeing what comes next!
 
 ## Experience
 - See Resume
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MCatapang)](https://github.com/MCatapang/github-profile-trophy)
