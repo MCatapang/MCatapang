@@ -1,16 +1,11 @@
-# Hey! How's it going?
+# Hi, how's it going?
 
-Hope you're doing well. I'm an undergraduate student at [University of California, Irvine](https://uci.edu).
-I'm currently pivoting into the tech industry by learning through a 3-stack Software Developer bootcamp, 
-and I'll be updating this ReadMe as I go along.
+June of 2022: I successfully attained certification in software development through a full-time coding bootcamp and a bachelor's degree in pre-law studies. I am proud to say that achieving both at the same time was one of the biggest accomplishments I've had to date – but I am even prouder to say that it's a testament to the skillset that I can bring to the table.
 
-Looking forward to seeing what comes next!
+On the technical side, I have found success in implementing several programming languages (e.g., C#, Python, MQL, SQL, JavaScript, JSX, HTML5, CSS), frameworks & libraries (e.g., ASP.NET, EF Core, React, Mongoose, Axios, Express, Flask, AJAX, Jinjia2, Flask, Bootstrap), and tools (e.g., MongoDB, Node.JS, AWS, JSON, RESTful APIs, MySQL Workbench, Git, GitHub).
 
-## Education
-- San Ysidro High (2012-2016)
-  - High School Diploma
-- University of California, Irvine (2016-2018; 2020-2022)
-  - B.A., Political Science – Law & Society
+On the behavioral side, I find joy in providing highly viable solutions to client needs. I am a proficient learner, valuable for navigating the ever-changing technological landscape we now live in. I am multifaceted, able to work client-side, front-end, server-side, and back-end. But most importantly, I can thrive in both team settings and solo assignments.
 
-## Experience
-- See Resume
+---
+
+My areas of choice are Javascript, MERN, and C# / ASP.NET Core. If you're passionate in any of those, let's connect and collaborate!
