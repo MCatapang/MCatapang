@@ -16,8 +16,7 @@ My areas of choice are Javascript, MERN, and C# / ASP.NET Core. If you're passio
 
 ## Upcoming Endeavors
 - "[Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java)" by the University of California, San Diego
-- "[Microsoft Azure Virtual Training Day: Fundamentals](https://www.microsoft.com/en-us/trainingdays/azure)" by Microsoft (2022-07-28 to 2022-07-29)
-  - "[Exam AZ-900: Microsoft Azure Fundamentals](https://docs.microsoft.com/en-us/certifications/exams/az-900)" by Microsoft
+- "[Exam AZ-900: Microsoft Azure Fundamentals](https://docs.microsoft.com/en-us/certifications/exams/az-900)" by Microsoft
 - [*AWS Summit*](https://aws.amazon.com/events/summits/anaheim/) by Amazon (2022-08-17)
 
 ## Updates
